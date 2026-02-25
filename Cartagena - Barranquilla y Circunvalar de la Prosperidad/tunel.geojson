@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "tunel",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "municipio": "Cartagena", "proyecto": "Cartagena - Barranquilla y Circunvalar de la Prosperidad", "fecha_avance": "2025-09-12", "OBJECTID": 6, "ID": 6, "UnidadFuncional": 1.0, "Departamento": 13.0, "CodigoInvias": "4006", "FechaInicioOperacion": 1648580400000.0, "TipoPavimento": 1.0, "PuntoInicial": 62.0, "DistAPuntoInicial": 0.0, "punto_final": 77.0, "DistAPuntoFinal": 900.0, "longitud": 700.0, "IdTunel": " ", "NivelTransito": 1.0, "Shape.STArea()": 12721.68101231, "Shape.STLength()": 1243.2817046852783 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -75.519501456267534, 10.448964121527712 ], [ -75.51962984156475, 10.449105444085733 ], [ -75.522042328834289, 10.446923732928287 ], [ -75.523757366862654, 10.445544688928429 ], [ -75.523636097040438, 10.445393295840853 ], [ -75.521919406554659, 10.446775350663621 ], [ -75.519501456267534, 10.448964121527712 ] ] ] } }
-]
-}
