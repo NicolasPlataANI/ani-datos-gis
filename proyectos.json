@@ -7,6 +7,11 @@
     {"nombre": "IP Autopistas del Caribe, corredor de carga Cartagena - Barranquilla", "mes": "Marzo 2026"},
     {"nombre": "Mulaló - Loboguerrero", "mes": "Marzo 2026"},
     {"nombre": "Rumichaca - Pasto", "mes": "Marzo 2026"},
-    {"nombre": "Desarrollo Vial Armenia - Pereira - Manizales", "mes": "Marzo 2026"}
+    {"nombre": "Desarrollo Vial Armenia - Pereira - Manizales", "mes": "Marzo 2026"},
+
+    {"nombre": "Autopista Conexión Pacífico 2", "mes": "Abril 2026"},
+    {"nombre": "Bucaramanga - Barrancabermeja - Yondó", "mes": "Abril 2026"},
+    {"nombre": "IP - Antioquia - Bolívar", "mes": "Abril 2026"},
+    {"nombre": "IP - Vías del Nus", "mes": "Abril 2026"}
     
 ]
