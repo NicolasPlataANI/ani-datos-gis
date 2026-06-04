@@ -12,6 +12,11 @@
     {"nombre": "Autopista Conexión Pacífico 2", "mes": "Abril 2026"},
     {"nombre": "Bucaramanga - Barrancabermeja - Yondó", "mes": "Abril 2026"},
     {"nombre": "IP - Antioquia - Bolívar", "mes": "Abril 2026"},
-    {"nombre": "IP - Vías del Nus", "mes": "Abril 2026"}
+    {"nombre": "IP - Vías del Nus", "mes": "Abril 2026"},
+
+    {"nombre": "Pamplona - Cúcuta", "mes": "Mayo 2026"},
+    {"nombre": "Accesos Norte Fase II", "mes": "Mayo 2026"},
+    {"nombre": "Autopista Conexión Norte", "mes": "Mayo 2026"},
+    {"nombre": "Perimetral de Oriente de Cundinamarca", "mes": "Mayo 2026"}
     
 ]
