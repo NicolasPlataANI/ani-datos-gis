@@ -17,6 +17,11 @@
     {"nombre": "Pamplona - Cúcuta", "mes": "Mayo 2026"},
     {"nombre": "Accesos Norte Fase II", "mes": "Mayo 2026"},
     {"nombre": "Autopista Conexión Norte", "mes": "Mayo 2026"},
-    {"nombre": "Perimetral de Oriente de Cundinamarca", "mes": "Mayo 2026"}
+    {"nombre": "Perimetral de Oriente de Cundinamarca", "mes": "Mayo 2026"},
+
+    {"nombre": "Autopista al Mar 1", "mes": "Junio 2026"},
+    {"nombre": "Honda - Puerto Salgar - Girardot", "mes": "Junio 2026"},
+    {"nombre": "Puerta de Hierro - Palmar de Varela y Carreto - Cruz del Viso", "mes": "Junio 2026"},
+    {"nombre": "IP - GICA", "mes": "Junio 2026"}
     
 ]
