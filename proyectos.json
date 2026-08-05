@@ -22,6 +22,11 @@
     {"nombre": "Autopista al Mar 1", "mes": "Junio 2026"},
     {"nombre": "Honda - Puerto Salgar - Girardot", "mes": "Junio 2026"},
     {"nombre": "Puerta de Hierro - Palmar de Varela y Carreto - Cruz del Viso", "mes": "Junio 2026"},
-    {"nombre": "IP - GICA", "mes": "Junio 2026"}
+    {"nombre": "IP - GICA", "mes": "Junio 2026"},
+
+    {"nombre": "Autopista Conexión Pacífico 1", "mes": "Julio 2026"},
+    {"nombre": "IP - Ampliación a tercer carril doble calzada Bogotá - Girardot", "mes": "Julio 2026"},
+    {"nombre": "Santafé de Bogotá (Puente el Cortijo)  - Siberia - La Punta - El Vino - La Vega - Villeta", "mes": "Julio 2026"},
+    {"nombre": "Troncal del Magdalena Puerto Salgar - Barrancabermeja C1", "mes": "Julio 2026"}
     
 ]
