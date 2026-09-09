@@ -34,6 +34,6 @@
     {"nombre": "Ruta del Sol - Sector 3", "mes": "Agosto 2026"},
     {"nombre": "Santana - Mocoa - Neiva", "mes": "Agosto 2026"},
 
-    {"nombre": "CBB", "mes": "Agosto 2026"}
+    {"nombre": "CBB", "mes": "Agosto 2026", "modo": "Férreo"}
     
 ]
